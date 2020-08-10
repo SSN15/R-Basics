@@ -13,20 +13,20 @@ pacman::p_load(pacman, rio)
 # From the official R documentation
 browseURL("http://j.mp/2aFZUrJ")
 
-# You have been warned: ಠ_ಠ
+# You have been warned: à² _à² 
 
 # IMPORTING WITH RIO #######################################
 
 # CSV
-rio_csv <- import("~/Desktop/mbb.csv")
+rio_csv <- import("C:/Users/admin/Desktop/R01_Course_Files/R01_Course_Files/R01_5_4_ImportingData_Datasets/mbb.csv")
 head(rio_csv)
 
 # TXT
-rio_txt <- import("~/Desktop/mbb.txt")
+rio_txt <- import("C:/Users/admin/Desktop/R01_Course_Files/R01_Course_Files/R01_5_4_ImportingData_Datasets/mbb.txt")
 head(rio_txt)
 
 # Excel XLSX
-rio_xlsx <- import("~/Desktop/mbb.xlsx")
+rio_xlsx <- import("C:/Users/admin/Desktop/R01_Course_Files/R01_Course_Files/R01_5_4_ImportingData_Datasets/mbb.xlsx")
 head(rio_xlsx)
 
 # DATA VIEWER ##############################################
@@ -49,7 +49,7 @@ r_txt1 <- read.table("~/Desktop/mbb.txt", header = TRUE)
 # This works with missing data by specifying the separator: 
 # \t is for tabs, sep = "," for commas. R converts missing
 # to "NA"
-r_txt2 <- read.table("~/Desktop/mbb.txt", 
+r_txt2 <- read.table("C:/Users/admin/Desktop/R01_Course_Files/R01_Course_Files/R01_5_4_ImportingData_Datasets/mbb.txt", 
   header = TRUE, 
   sep = "\t")
 
@@ -60,7 +60,7 @@ r_txt2 <- read.table("~/Desktop/mbb.txt",
 # CSV FILES
 # Don't have to specify delimiters for missing data
 # because CSV means "comma separated values"
-trends.csv <- read.csv("~/Desktop/mbb.csv", header = TRUE)
+trends.csv <- read.csv("C:/Users/admin/Desktop/R01_Course_Files/R01_Course_Files/R01_5_4_ImportingData_Datasets/mbb.csv", header = TRUE)
 
 # CLEAN UP #################################################
 
