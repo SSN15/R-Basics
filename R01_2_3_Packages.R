@@ -1,10 +1,3 @@
-# File:    R01_2_3_Packages.R
-# Course:  R01: R: An introduction
-# Chapter: 2: Setting up
-# Section: 3: Packages
-# Author:  Barton Poulson, datalab.cc, @bartonpoulson
-# Date:    2016-04-04
-
 # LOAD PACKAGES ############################################
 
 # I recommend "pacman" for managing add-on packages. It will
