@@ -1,10 +1,3 @@
-# File:    R01_3_5_OverlayingPlots.R
-# Course:  R01: R: An introduction
-# Chapter: 3: Basic graphics
-# Section: 5: Overlaying plots
-# Author:  Barton Poulson, datalab.cc, @bartonpoulson
-# Date:    2016-05-24
-
 # INSTALL AND LOAD PACKAGES ################################
 
 library(datasets)  # Load/unload base packages manually
