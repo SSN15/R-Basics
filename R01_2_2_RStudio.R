@@ -1,10 +1,3 @@
-# File:    R01_2_2_RStudio.R
-# Course:  R01: R: An introduction
-# Chapter: 2: Setting up
-# Section: 2: RStudio
-# Author:  Barton Poulson, datalab.cc, @bartonpoulson
-# Date:    2016-04-04
-
 # LOAD DATA ################################################
 
 library(datasets)  # Load built-in datasets
