@@ -1,10 +1,3 @@
-# File:    R01_3_4_Scatterplots.R
-# Course:  R01: R: An introduction
-# Chapter: 3: Basic graphics
-# Section: 4: Scatterplots
-# Author:  Barton Poulson, datalab.cc, @bartonpoulson
-# Date:    2016-05-24
-
 # LOAD DATASETS PACKAGES ###################################
 
 library(datasets)  # Load/unload base packages manually
