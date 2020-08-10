@@ -1,9 +1,3 @@
-# File:    R01_3_1_plot().R
-# Course:  R01: R: An introduction
-# Chapter: 3: Basic graphics
-# Section: 1: plot()
-# Author:  Barton Poulson, datalab.cc, @bartonpoulson
-# Date:    2016-05-24
 
 # LOAD DATASETS PACKAGES ###################################
 
