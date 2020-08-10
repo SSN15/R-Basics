@@ -1,10 +1,3 @@
-# File:    R01_2_1_InstallingR.R
-# Course:  R01: R: An introduction
-# Chapter: 2: Setting up
-# Section: 1: Installing R
-# Author:  Barton Poulson, datalab.cc, @bartonpoulson
-# Date:    2016-05-23
-
 # LOAD DATA ################################################
 
 library(datasets)  # Load built-in datasets
