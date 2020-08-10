@@ -1,10 +1,3 @@
-# File:    R01_3_2_BarCharts.R
-# Course:  R01: R: An introduction
-# Chapter: 3: Basic graphics
-# Section: 2: Bar charts
-# Author:  Barton Poulson, datalab.cc, @bartonpoulson
-# Date:    2016-05-24
-
 # LOAD DATASETS PACKAGES ###################################
 
 library(datasets)
