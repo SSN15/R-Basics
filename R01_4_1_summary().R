@@ -1,9 +1,3 @@
-# File:    R01_4_1_summary().R
-# Course:  R01: R: An introduction
-# Chapter: 4: Basic statistics
-# Section: 1: summary()
-# Author:  Barton Poulson, datalab.cc, @bartonpoulson
-# Date:    2016-06-02
 
 # INSTALL AND LOAD PACKAGES ################################
 
