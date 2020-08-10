@@ -1,10 +1,3 @@
-# File:    R01_3_3_Histograms.R
-# Course:  R01: R: An introduction
-# Chapter: 3: Basic graphics
-# Section: 3: Histograms
-# Author:  Barton Poulson, datalab.cc, @bartonpoulson
-# Date:    2016-05-24
-
 # LOAD PACKAGES ############################################
 
 library(datasets)
